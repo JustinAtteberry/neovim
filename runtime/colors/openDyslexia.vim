@@ -1,4 +1,4 @@
-" Colorscheme for vim/nvim 
+" Colorscheme for vim
 " Provides easier readabillity with high-contrast colors
 " Languages supported:
 " Java, JavaScript, shell, Python, C, C++, C#, Ruby, Go, PHP, vim script, 
